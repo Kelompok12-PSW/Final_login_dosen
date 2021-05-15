@@ -1,0 +1,20 @@
+.text{
+    font-family:Helvetica, sans-serif;
+    color:goldenrod;
+}
+
+.error {
+	border:1px solid #FF8080;
+	background-color:#FFCECE;
+	padding:3px;
+	margin:5px 0px;
+	text-align:center;
+}
+ 
+.ok {
+	border:1px solid #80FF80;
+	background-color:#CFC;
+	padding:3px;
+	margin:5px 0px;
+	text-align:center;
+}
